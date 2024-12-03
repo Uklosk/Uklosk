@@ -12,7 +12,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           
-          user: trevtv
+          user: Uklosk
           template: classic
           base: header, repositories, metadata
           config_timezone: Europe/Madrid
