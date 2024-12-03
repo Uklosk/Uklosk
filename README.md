@@ -1,3 +1,5 @@
+![Metrics](https://github.com/Uklosk/Uklosk/blob/main/github-metrics.svg)
+
 - 👋 Hi, I’m @Uklosk
 - 👀 I’m interested in linux, videogames, emulators, graphics programming and reverse engineering
 - 🌱 I’m currently learning Rust
